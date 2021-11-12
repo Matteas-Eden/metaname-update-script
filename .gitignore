@@ -1,0 +1,4 @@
+*.log
+.env
+metaname-update-script.service
+last_public_ip
