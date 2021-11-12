@@ -1,0 +1,3 @@
+[submodule "python-metaname"]
+	path = python-metaname
+	url = https://github.com/metaname/python-metaname
